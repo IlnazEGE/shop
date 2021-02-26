@@ -139,7 +139,7 @@ body.lock {
 .banner {
 	max-width: 100%;
 	padding: 0px 0px 35.4% 0px;
-	background: url("../../img/banner.png") 0 0/100% no-repeat;
+	background: url("../img/banner.png") 0 0/100% no-repeat;
 }
 @media (max-width: 500px) {
 	.banner {
